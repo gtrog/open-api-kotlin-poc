@@ -42,11 +42,6 @@ paths:
     post:
       summary: Create a pet
       operationId: createPet
-#      requestBody:
-#        content:
-#          application/json:
-#            schema:
-#              $ref: "#/components/schemas/Pet"
       tags:
         - pets
       responses:
