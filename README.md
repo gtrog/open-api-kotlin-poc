@@ -46,5 +46,5 @@ Demonstration of using the generated client to talk to the Spring Boot applicati
 ---
 ```
 /target/generated-sources/openapi/**
-The location where all the generated service stubs and client code is written
 ```
+The location where all the generated service stubs and client code is written
