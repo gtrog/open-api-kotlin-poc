@@ -11,7 +11,7 @@ Project Layout:
 /pom.xml
 ```
 The main Maven project that has all the required dependencies and also runs the openapi generator plugins to generate 
-sources the client and service stubs.
+sources for the client and service stubs.
 
 ---
 ```
